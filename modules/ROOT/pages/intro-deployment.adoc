@@ -1,0 +1,34 @@
+= Deployment
+
+* describes the deployment architecture
+* define deployment
+
+== Deploy an API Proxy
+
+* define an API and API proxy
+* API Gateway
+
+=== Managing APIs
+
+=== Security
+
+
+== Deploy a Mule Application
+
+* [define a Mule application]
+
+=== Deployment Targets
+
+* CloudHub
+* Hybrid
+* Runtime Fabric
+
+=== Servers, Server Groups, and Clusters
+
+=== Managing deployed applications
+
+=== Security
+
+=== CI/CD?
+
+=== Other Considerations?

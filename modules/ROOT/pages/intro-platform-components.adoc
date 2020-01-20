@@ -1,5 +1,10 @@
 = Anypoint Platform Components
 
+SL: Need general informatiion on APIs, Flows, and Mule Applications. Options seem to be:
+
+* Add to the index topic
+* Create a new topic before this one
+
 == Design Center
 
 * Create an API Specification

@@ -4,4 +4,8 @@ This topic ...
 
 == API-led Connectivity
 
+https://developer.mulesoft.com/tutorials-and-howtos/quick-start/designing-your-first-api
+
+https://developer.mulesoft.com/tutorials-and-howtos/flow-designer/getting-started-with-flow-designer
+
 == The Application Network

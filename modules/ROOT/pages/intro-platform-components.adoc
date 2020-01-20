@@ -2,9 +2,28 @@
 
 == Design Center
 
+* Create an API Specification
+** Inferface for designing, documenting, and testing API specifications.
+* Create a Mule Application
+** Simple interface for creating Mule integration flows
+
 == Management Center
 
+* Access Management
+* API Manager
+* Partner Manager
+* Runtime Manager
+* Data Gateway
+* MQ
+* Monitoring
+* Secrets Manager
+* Security
+
 == Exchange
+
+== Anypoint Studio
+
+https://developer.mulesoft.com/tutorials-and-howtos/quick-start/developing-your-first-mule-application
 
 == Mule Runtime Server
 

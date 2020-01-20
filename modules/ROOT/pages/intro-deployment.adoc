@@ -5,6 +5,8 @@
 
 == Deploy an API Proxy
 
+https://developer.mulesoft.com/tutorials-and-howtos/quick-start/deploying-managing-your-first-api
+
 * define an API and API proxy
 * API Gateway
 
